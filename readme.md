@@ -4,7 +4,7 @@
 
 ### Create HTTP API in which you can manage your assets and see their values
 
-Create two entities in this API: **User** and **Asset**:
+Create two models in this API: **User** and **Asset**:
 
 * **User** can CRUD his **Assets**.
 * * Straightforward CRUD is enough.
